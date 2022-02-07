@@ -1,19 +1,19 @@
 {
-  "name": "postcss-css-specificity",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Yuri Sementsov <hello@smcv.dev> (https://smcv.dev/)",
-  "license": "MIT",
-  "devDependencies": {
-    "chokidar": "^3.5.3",
-    "clear": "^0.1.0",
-    "cli-highlight": "^2.1.11",
-    "css-specificity": "^0.1.0",
-    "postcss": "^8.4.6"
-  }
+    "name": "css-specificity-demo",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Yuri Sementsov <hello@smcv.dev> (https://smcv.dev/)",
+    "license": "MIT",
+    "devDependencies": {
+        "chokidar": "^3.5.3",
+        "clear": "^0.1.0",
+        "cli-highlight": "^2.1.11",
+        "css-specificity": "^0.1.0",
+        "postcss": "^8.4.6"
+    }
 }
